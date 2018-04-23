@@ -1,6 +1,5 @@
 package org.openmrs.module.esaudereports.reports.mmia.evaluator;
 
-import org.openmrs.Location;
 import org.openmrs.annotation.Handler;
 import org.openmrs.api.context.Context;
 import org.openmrs.module.esaudereports.reports.mmia.definition.MmiaPatientBalanceteDataSetDefinition;
